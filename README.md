@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @dev-joao-dev, joão Vitor
+- 👋 Hi, I’m @dev-joao-dev,  João Vitor
 - 👀 I’m interested in enter the front-end developer job market
 - 🌱 I’m currently  studying in the course: codeClub, about HTML, CSS, javaScript, React among others
-- 📫 How to reach me joaovitormn09@gmail.com
   
 <p align="left">
   Tools:<br><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">                                                           
