@@ -31,6 +31,11 @@
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
        
 </p>  
+  
+  [![card](https://github-readme-stats.vercel.app/api?username=dev-joao-dev&theme=dracula)](https://github.com/iuricode/)
+  
+  [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-joao-dev&hide=html&layout=compact&theme=dracula)](https://github.com/iuricode/)
+
 
 
 
